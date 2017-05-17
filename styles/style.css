@@ -45,3 +45,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.project_header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.project_header h3 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
