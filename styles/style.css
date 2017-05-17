@@ -33,7 +33,7 @@ p {
     color: #333;
 }
 footer {
-    margin-top: 100px;
+    margin-top: 50px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
@@ -52,6 +52,16 @@ ul.posts li {
 /*added from */
 .card{
     width: 700px;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 3px #888;
+    border-top: 10px solid green;
+    min-height: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card_small{
+    width: 400px;
     border: 1px solid gray;
     box-shadow: 1px 1px 3px #888;
     border-top: 10px solid green;
