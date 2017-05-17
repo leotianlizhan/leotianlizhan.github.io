@@ -46,6 +46,8 @@ ul.posts li {
     list-style: none;
 }
 
+
+
 /*added from */
 .card{
     width: 350px;
@@ -56,6 +58,11 @@ ul.posts li {
     padding: 10px;
     margin: 10px;
 }
+.card > h2[alt="Logo"]{
+  font-weight: lighter;
+  margin-left: 100px;
+  margin-top: -70px;
+}
 
 img{
   border-radius: 50%;
@@ -65,8 +72,6 @@ img{
 
 h1{
   font-weight: lighter;
-  margin-left: 100px;
-  margin-top: -70px;
 }
 
 p{
