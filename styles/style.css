@@ -50,11 +50,10 @@ ul.posts li {
   float: left;
   width: 100px;
   height: 100px;
-  background: #555;
 }
 
 .project_header h3 {
   position: relative;
-  top: 18px;
+  top: 30px;
   left: 10px;
 }
