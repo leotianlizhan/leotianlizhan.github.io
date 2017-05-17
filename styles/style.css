@@ -47,6 +47,6 @@ ul.posts li {
 }
 
 h2 {
-    display: inline;
+    display: inline-block;
     vertical-align: middle;
 }
