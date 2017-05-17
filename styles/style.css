@@ -74,6 +74,12 @@ h1{
   font-weight: lighter;
 }
 
+h2{
+  font-weight: lighter;
+  margin-left: 100px;
+  margin-top: -70px;
+}
+
 p{
   margin: 10px;
   font-family: segoe ui;
