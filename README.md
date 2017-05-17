@@ -1,2 +1,2 @@
 # leotianlizhan.github.io
-My Personal Website, showcasing several projects.
+My simple personal website, showcasing several projects.
