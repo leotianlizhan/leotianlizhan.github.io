@@ -46,17 +46,40 @@ ul.posts li {
     list-style: none;
 }
 
-.card {
-    /* Add shadows to create the "card" effect */
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+/*added from */
+.card{
+    width: 350px;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 3px #888;
+    border-top: 10px solid green;
+    min-height: 250px;
+    padding: 10px;
+    margin: 10px;
 }
 
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+img{
+  border-radius: 50%;
+  width: 70px;
+  margin: 10px;
 }
 
-/* Add some padding inside the card container */
-.container {
-    padding: 2px 16px;
+h1{
+  font-weight: lighter;
+  margin-left: 100px;
+  margin-top: -70px;
+}
+
+p{
+  margin: 10px;
+  font-family: segoe ui;
+  line-height: 1.4em;
+  font-size: 1.2em;
+}
+
+#mainbox{
+  font-family: calibri;
+  box-sizing: border-box;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
 }
