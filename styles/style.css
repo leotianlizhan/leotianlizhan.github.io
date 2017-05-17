@@ -48,4 +48,5 @@ ul.posts li {
 
 h2 {
     display: inline;
+    vertical-align: middle;
 }
