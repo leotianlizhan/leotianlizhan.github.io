@@ -46,13 +46,6 @@ ul.posts li {
     list-style: none;
 }
 
-.project_header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: transparent;
-}
-
 .project_header h2 {
   position: relative;
   top: 30px;
