@@ -98,12 +98,11 @@ p{
   font-size: 1.2em;
 }
 
-/*
-#mainbox{
+/* a "box" to put cards in, automatically positions cards inside the div nicely */
+#card_box{
   font-family: calibri;
   box-sizing: border-box;
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
 }
-*/
