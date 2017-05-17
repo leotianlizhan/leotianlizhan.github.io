@@ -75,7 +75,7 @@ ul.posts li {
   margin-top: -70px;
 }
 
-img{
+img[alt="Logo"]{
   border-radius: 50%;
   width: 70px;
   margin: 10px;
