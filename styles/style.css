@@ -46,10 +46,10 @@ ul.posts li {
     list-style: none;
 }
 
-.project_header h2 {
-  position: relative;
-  top: 30px;
-  left: 10px;
+.project_header {  
+    height: 160px; /*can be anything*/
+    width: 160px; /*can be anything*/
+    position: relative;
 }
 
 img {  
