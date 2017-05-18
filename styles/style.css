@@ -84,13 +84,13 @@ ul.posts li {
 }
 
 img[alt="Logo"]{
-  border-radius: 50%;
+  border-radius: 60%;
   width: 70px;
   margin: 10px;
 }
 
 img[alt="Android Screenshot"]{
-  max-height: 100%;
+  max-width: 100%;
   margin: auto;
   display: block;
 }
