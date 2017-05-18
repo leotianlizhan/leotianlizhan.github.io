@@ -102,3 +102,10 @@ img[alt="Android Screenshot"]{
   display: flex;
   flex-wrap: wrap;
 }
+
+.grid_layout{
+  font-family: calibri;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
