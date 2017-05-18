@@ -90,8 +90,9 @@ img[alt="Logo"]{
 }
 
 img[alt="Android Screenshot"]{
-  max-width: 100%;
-  margin: auto;
+  width: 108px;
+  height: 192px;
+  margin: 4px;
   display: block;
 }
 
