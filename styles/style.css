@@ -91,7 +91,9 @@ img[alt="Logo"]{
 
 img[alt="Android Screenshot"]{
   width: 110px;
-  margin: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 /* a "box" to put cards in, automatically positions cards inside the div nicely */
