@@ -108,4 +108,5 @@ img[alt="Android Screenshot"]{
   font-family: calibri;
   justify-content: center;
   display: flex;
+  align-items: center;
 }
